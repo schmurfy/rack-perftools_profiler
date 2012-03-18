@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   # s.add_development_dependency "rspec"
   # s.add_runtime_dependency "rest-client"
 
-  s.add_dependency 'perftools.rb', '~> 0.5.6'
+  s.add_dependency 'perftools.rb'
   s.add_dependency 'rack', '~> 1.0'
   s.add_dependency('open4', '~> 1.0')
   s.add_development_dependency 'rack', '~> 1.1'
